@@ -8,9 +8,10 @@ IF YOU WANT OUR HELP IN ANY OF THE BELOW APPS IN AUTOMATION OR MANAGING SERVICES
 Please feel free to send me [pull requests](https://github.com/Zeeshanahmad4/awesome_list_of_anti_detect_browsers_apps/pulls) or email (ahmadzee26@gmail.com) to add links.
 
 ## Awesome Free Lists
- - [ADSPOWER](https://wwww.adspower.net/product)
- - [INCOGNITON](https://incogniton.com/)
- - [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
- - [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
- - [Awesome 3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
- - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+ - [Adspower](https://wwww.adspower.net/product)
+ - [Incogniton](https://incogniton.com/)
+ - [kameleo](https://kameleo.io/)
+ - [Gologin](https://gologin.com/)
+ - [Vmlogin](https://us.vmlogin.com/)
+ - [Ghostbrowser](https://ghostbrowser.com/)
+ - [INDIGO](https://indigobrowser.com/)
