@@ -1,0 +1,1 @@
+# awesome_list_of_anti_detect_browsers_apps
