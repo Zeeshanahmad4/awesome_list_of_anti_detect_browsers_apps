@@ -11,11 +11,11 @@ Please feel free to send me [pull requests](https://github.com/Zeeshanahmad4/awe
  - [kameleo](https://kameleo.io/)
  - [Gologin](https://gologin.com/)
  - [Vmlogin](https://us.vmlogin.com/)
- - [INDIGO](https://indigobrowser.com/)
+ - [Indigo](https://indigobrowser.com/)
  - [Ghostbrowser](https://ghostbrowser.com/)
  - [Adspower](https://wwww.adspower.net/product)
 
 
 
 ## AUTOMATION OR MANAGING SERVICES
-IF YOU WANT OUR HELP IN ANY OF THE BELOW APPS IN AUTOMATION OR MANAGING SERVICES, [CHECK OUR WEBSITE](https://mlaautomation.com/) or email us (ahmadzee26@gmail.com).
+If you want our help in any of the below apps in automation or managing services, [check our website](https://mlaautomation.com/) or email us (ahmadzee26@gmail.com).
