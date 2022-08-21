@@ -14,6 +14,7 @@ Please feel free to send me [pull requests](https://github.com/Zeeshanahmad4/awe
  - [Indigo](https://indigobrowser.com/)
  - [Ghostbrowser](https://ghostbrowser.com/)
  - [Adspower](https://wwww.adspower.net/product)
+ - [IDENTORY](https://identory.com)
 
 
 
