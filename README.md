@@ -15,6 +15,3 @@ A curated list of awesome anti detect, stealth Browers app, paid and free.
  - [Adspower](https://wwww.adspower.net/product)
 
 
-
-## AUTOMATION OR MANAGING SERVICES
-If you want our help in any of the below apps in automation or managing services, [check our website](https://mlaautomation.com/) or email us (ahmadzee26@gmail.com).
