@@ -13,5 +13,6 @@ A curated list of awesome anti detect, stealth Browers app, paid and free.
  - [Indigo](https://indigobrowser.com/)
  - [Ghostbrowser](https://ghostbrowser.com/)
  - [Adspower](https://wwww.adspower.net/product)
+ - [IDENTORY](https://identory.com)
 
 
